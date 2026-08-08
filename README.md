@@ -23,7 +23,7 @@ DiGiT is built upon the following projects:
 - [Denoising Diffusion PyTorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - [Diffusion Distiller](https://github.com/Hramchenko/diffusion_distiller)
 
-A related demo implementation is available in the
+A demo implementation is available in the
 [SDC-DAC25 repository](https://github.com/Jqubcomp/SDC-DAC25). The complete
 DiGiT implementation will be released in this repository.
 
