@@ -1,6 +1,9 @@
 # DiGiT
 
-> **Coming soon.**
+> **Full implementation coming soon.**
+> A demo implementation is available in the
+[SDC-DAC25 repository](https://github.com/Jqubcomp/SDC-DAC25). The complete
+DiGiT implementation will be released in this repository.
 
 This repository will host the official implementation of **DiGiT**, a
 diffusion-based modular geophysical toolkit for on-device multi-modal data
@@ -23,9 +26,6 @@ DiGiT is built upon the following projects:
 - [Denoising Diffusion PyTorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - [Diffusion Distiller](https://github.com/Hramchenko/diffusion_distiller)
 
-A demo implementation is available in the
-[SDC-DAC25 repository](https://github.com/Jqubcomp/SDC-DAC25). The complete
-DiGiT implementation will be released in this repository.
 
 ## Citation
 
